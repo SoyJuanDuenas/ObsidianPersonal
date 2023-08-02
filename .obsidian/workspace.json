@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46b0ba5c79e5dc08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cuantitative methods/R.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,15 +159,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a7af0af58e8e6aa",
+  "active": "46b0ba5c79e5dc08",
   "lastOpenFiles": [
+    "Asia/Singapur.md",
+    "Asia/Chovinistas chinos.md",
+    "Asia/Ultras malayos.md",
+    "Asia/capitalismo de Estado.md",
+    "Asia/Federación de Malasia.md",
+    "Asia/Johor-Riau Sultanate.md",
+    "Asia/estrecho de Malacca.md",
+    "Asia/Lee Kuan Yew.md",
+    "Asia/Stamford Raffles.md",
+    "Asia/The Singapore Story.md",
     "Cuantitative methods/R.md",
+    "Untitled.md",
+    "Asia",
     "vectores.md",
     "Cuantitative methods/packages.md",
     "data Structures.md",
     "Cuantitative methods/Vista General RStudio.png",
     "Cuantitative methods/object-oriented language.md",
-    "Untitled.md",
     "Daily notes/Piloto.md",
     "Daily notes",
     "history of economic thought",
