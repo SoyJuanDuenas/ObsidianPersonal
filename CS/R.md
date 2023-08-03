@@ -1,6 +1,6 @@
 R is a free and open-source [[programming language]] and statistical development environment that allows anyone to download, use, and modify it. Consequently, it has a large community and well-documented functionalities and [[packages]]. R is an [[object-oriented language]], which means that data is organized into objects that can be manipulated and analyzed. Additionally, R is accompanied by a graphical user interface called RStudio, which facilitates working with the language and enables easy data creation and visualization.
 
-The versatility of R permits various types of analyses, including [[descriptive statistics]], [[bayesian statistics]], [[state-space models]], and more. Notably, R can be utilized for [[macroeconometrics]], [[microeconometrics]], [[financial econometrics]], [[impact evaluation]], [[bayesian econometrics]], [[spatial econometrics]], and other analyses.
+The versatility of R permits various types of analyses, including [[descriptive statistics]], [[bayesian statistics]], [[state-space models]], [[time series models]], [[data panel]] and more. Notably, R can be utilized for [[macroeconometrics]], [[microeconometrics]], [[financial econometrics]], [[impact evaluation]], [[bayesian econometrics]], [[spatial statistics]], and other analyses.
 # RStudio
 
 RStudio provides a graphical user interface (GUI) that makes working with R easier, thus making it more accessible for users who are not familiar with command-line programming.

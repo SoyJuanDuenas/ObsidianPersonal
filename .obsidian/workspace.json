@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cuantitative methods/R.md",
+                "file": "Cuantitative methods/contiguity.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cuantitative methods/R.md",
+                "file": "Cuantitative methods/spatial statistics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cuantitative methods/R.md",
+                "file": "Cuantitative methods/contiguity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cuantitative methods/R.md",
+                "file": "Cuantitative methods/contiguity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cuantitative methods/R.md"
+                "file": "Cuantitative methods/contiguity.md"
               }
             }
           }
@@ -159,8 +158,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46b0ba5c79e5dc08",
+  "active": "4a7af0af58e8e6aa",
   "lastOpenFiles": [
+    "Cuantitative methods/time series models.md",
+    "CS/object-oriented language.md",
+    "Cuantitative methods/contiguity.md",
+    "Cuantitative methods/vectors.md",
+    "CS",
+    "Cuantitative methods/spatial econometrics.md",
+    "Cuantitative methods/w.md",
+    "Cuantitative methods/Retardo Espacial Torre.png",
+    "Cuantitative methods/Retardo Espacial Reina.png",
+    "Cuantitative methods/w.qmd",
+    "Cuantitative methods/spatial statistics.md",
+    "Cuantitative methods/Lattice Data.md",
+    "CS/R.md",
+    "CS/programming language.md",
+    "CS/packages.md",
+    "CS/objects.md",
+    "Untitled.md",
     "Asia/Singapur.md",
     "Asia/Chovinistas chinos.md",
     "Asia/Ultras malayos.md",
@@ -171,24 +187,14 @@
     "Asia/Lee Kuan Yew.md",
     "Asia/Stamford Raffles.md",
     "Asia/The Singapore Story.md",
-    "Cuantitative methods/R.md",
-    "Untitled.md",
     "Asia",
-    "vectores.md",
-    "Cuantitative methods/packages.md",
     "data Structures.md",
     "Cuantitative methods/Vista General RStudio.png",
-    "Cuantitative methods/object-oriented language.md",
     "Daily notes/Piloto.md",
     "Daily notes",
     "history of economic thought",
     "Cuantitative methods",
-    "Vista General RStudio.png.md",
     "estructuras.qmd",
-    "Operating System.md",
-    "Docker.md",
-    "Graph.md",
-    "README.md",
     "LICENSE"
   ]
 }
