@@ -1,4 +1,3 @@
-
 Spatial statistics introduces the spatial location of observations, meaning that we work with georeferenced data. If we recall Tobler's First Law, "Everything is related to everything else, but near things are more related than distant things," we realize that when conducting spatial analysis, we will need different tools than traditional ones. Within spatial statistics, we encounter three main areas of knowledge:
 
 - **[[Geostatistics]] / Geostatistical Data:** Geostatistics focuses on the analysis and modeling of changes in continuous variables associated with spatial information. In this branch, we have measurement points over time, and we attempt to estimate how the variable behaves at other nearby points.
