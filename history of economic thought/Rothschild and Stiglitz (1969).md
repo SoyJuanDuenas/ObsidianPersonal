@@ -1,4 +1,3 @@
-
 Para este escrito nos basaremos en:
 
 >**Increasing Risk: A Definition And It's Economic Consequences
@@ -40,4 +39,27 @@ $$
 note que $y$ y $x$ tienen la misma media
 
 ## Todo individuo con aversión al riesgo prefiere $x$ a $y$
+
+En la teoría de la maximización de la utilidad, un individuo con aversión al riesgo es tal que tiene una función de utilidad cóncava y si $x$ y $y$ tienen la misma media va a preferir la de menor riesgo.
+
+$$
+E(U(x)) > E((y)) 
+$$
+
+Por lo cual es razonable decir que $x$ es menos riesgoso que $y$
+
+## $y$ tiene más peso en las colas que $x$
+
+Si $x$ y $y$ tienen funciones de densidad $f$ y $g$ respectivamente y $g$ fue obtenida de $f$ manteniendo la misma media pero añadiendo valores en las colas, es razonable decir que $y$ es más incierta que $x$
+
+
+
+
+
+
+
+
+
+
+
 
