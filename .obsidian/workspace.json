@@ -11,12 +11,8 @@
             "id": "4a7af0af58e8e6aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "history of economic thought/Rothschild and Stiglitz (1969).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "history of economic thought/Rothschild and Stiglitz (1969).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "history of economic thought/Rothschild and Stiglitz (1969).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "history of economic thought/Rothschild and Stiglitz (1969).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,36 +152,37 @@
   },
   "active": "4a7af0af58e8e6aa",
   "lastOpenFiles": [
-    "Economics/función de bienestar social.md",
-    "Economics",
+    "history of economic thought/Dalton (1920).md",
     "history of economic thought/Rothschild and Stiglitz (1969).md",
     "history of economic thought/Atkinson (1970).md",
+    "history of economic thought/teoría de la toma de decisiones bajo incertidumbre 1.md",
+    "history of economic thought/teoría de la toma de decisiones bajo incertidumbre.md",
+    "Economics/función de bienestar social.md",
+    "CS/packages.md",
+    "CS/function.md",
+    "CS/machine learning.md",
+    "CS/python.md",
+    "history of economic thought/Social Choice.md",
+    "Cuantitative methods/contiguity.md",
+    "Cuantitative methods/spatial econometrics.md",
+    "Cuantitative methods/Lattice Data.md",
+    "Cuantitative methods/spatial statistics.md",
+    "Economics",
     "CS/R.md",
     "function 1.md",
-    "CS/function.md",
-    "CS/python.md",
     "CS/function 1.md",
     "Asia/capitalismo de Estado.md",
     "Daily notes/Reunion Asia Pre semestre.md",
-    "history of economic thought/Social Choice.md",
     "Asia/Johor-Riau Sultanate.md",
     "Asia/Federación de Malasia.md",
     "Daily notes/2023-08-05.md",
     "Asia/Chovinistas chinos.md",
-    "CS/packages.md",
     "Asia/Singapur.md",
     "Cuantitative methods/time series models.md",
-    "Daily notes/Piloto.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "CS/data structures.md",
-    "CS/object-oriented language.md",
-    "CS/programming language.md",
-    "CS/objects.md",
-    "Maths/matrix.md",
     "Maths",
-    "Maths/vectors.md",
     "CS",
     "Cuantitative methods/Retardo Espacial Torre.png",
     "Cuantitative methods/Retardo Espacial Reina.png",

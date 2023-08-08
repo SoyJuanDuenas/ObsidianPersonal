@@ -21,45 +21,57 @@ Es por esto que nos concentraremos en el termino de "Mean Preserving Spread" sin
 
 Rothschild and Stiglitz inician respondiendo la primera pregunta planteada diciendo que hay al menos 5 aproximaciones distintas para responder:
 
-## $y$ es igual a $x$ más ruido
+## 1. $Y$ es igual a $X$ más ruido
 
 Si simplemente añadimos un ruido independiente a una variable aleatoria diremos que la nueva variable aleatoria es más riesgosa (variable o tal vez con mayor varianza) que la variable aleatoria original, supongamos que:
 
 $$
-y = x + z
+Y = X + Z
 $$
-donde $z$ es una variable aleatoria que es independiente respecto a $x$, tal que:
+donde $>$ es una variable aleatoria que es independiente respecto a $X$, tal que:
 $$
-E(z|x) = o
+E(Z|X) = o
 $$
 $$
-\text{Para toda x}
-$$
-
-note que $y$ y $x$ tienen la misma media
-
-## Todo individuo con aversión al riesgo prefiere $x$ a $y$
-
-En la teoría de la maximización de la utilidad, un individuo con aversión al riesgo es tal que tiene una función de utilidad cóncava y si $x$ y $y$ tienen la misma media va a preferir la de menor riesgo.
-
-$$
-E(U(x)) > E((y)) 
+\text{Para toda X}
 $$
 
-Por lo cual es razonable decir que $x$ es menos riesgoso que $y$
+note que $Y$ y $X$ tienen la misma media
 
-## $y$ tiene más peso en las colas que $x$
+## 2. Todo individuo con aversión al riesgo prefiere $X$ a $y$
 
-Si $x$ y $y$ tienen funciones de densidad $f$ y $g$ respectivamente y $g$ fue obtenida de $f$ manteniendo la misma media pero añadiendo valores en las colas, es razonable decir que $y$ es más incierta que $x$
+En la teoría de la maximización de la utilidad, un individuo con aversión al riesgo es tal que tiene una función de utilidad cóncava y si $X$ y $Y$ tienen la misma media va a preferir la de menor riesgo.
 
+$$
+E(U(X)) > E((Y)) 
+$$
 
+Por lo cual es razonable decir que $X$ es menos riesgoso que $Y$
 
+## 3. $Y$ tiene más peso en las colas que $X$
 
+Si $X$ y $Y$ tienen funciones de densidad $F$ y $G$ respectivamente y $G$ fue obtenida de $F$ manteniendo la misma media pero añadiendo valores en las colas, es razonable decir que $Y$ es más incierta que $X$
 
+## 4. $X$ es una mezcla de $Y$
 
+Supongamos que $Y$ es una variable aleatoria con media $\mu$ y sea $Y'$ una variable aleatoria que es igual a $\mu$ con probabilidad de 1. Por lo tanto si $X$ hace parte de la combinación lineal entre $Y$ y $Y'$ entonces $X$ es menos riesgoso que $Y$.
 
+## 5. $Y$ tiene una varianza mayor a la de $X$
 
+normalmente las comparaciones de riesgo o incertidumbre son normalmente restringidas a comparaciones de la varianza, esto atribuido a la larga historia del uso de la varianza como medida de dispersión en la teoría estadística.
 
+El principal aporte de el paper de Rothschild and Stiglitz es que las cuatro primeras aproximaciones llevan a una sola definición de mayor riesgo, diferente a la quinta aproximación, además se demuestra que no se puede igualar el riesgo de $X$ con la varianza de $X$ lo cual sugiere que el concepto de Rothschild y Stiglitz de aumento de riesgo es mejor que el estándar relacionado con la varianza.
 
+# Mean preserving spread
 
+El concepto de "mean-preserving spread" (distribución que conserva la media) fue introducido por Rothschild and Stiglitz(1969). Este concepto se utiliza para comparar y analizar cambios en distribuciones de probabilidad, especialmente en el contexto de riesgo e incertidumbre.
 
+En el contexto de la "mean-preserving spread", hay dos ideas principales:
+
+1. **Conservación de la Media**: Esta parte del concepto se refiere a la idea de que un cambio en la distribución de probabilidad conserva la media (o valor esperado) si la media de la distribución permanece inalterada después del cambio. En otras palabras, si calculas el promedio de los resultados antes y después del cambio, será el mismo. Esto significa que, en promedio, no hay cambio en la "tendencia central" de la distribución.
+
+2. **Spread o Dispersión**: El término "spread" se refiere a la dispersión o variabilidad de los resultados en una distribución de probabilidad. Si imaginas una distribución como un gráfico, el spread se refiere a cuán "extendidos" están los puntos de datos alrededor de la media. Es una medida de la incertidumbre o el riesgo asociado con la distribución.
+
+Al combinar estas dos ideas, una "mean-preserving spread" se puede entender como un cambio en la distribución de probabilidad de los resultados de manera que no altera el resultado promedio (media), pero podría afectar el grado de incertidumbre o variabilidad (spread) alrededor de esa media. En otras palabras, el rango de resultados se vuelve más amplio o estrecho manteniendo constante el resultado promedio.
+
+Ahora es importante revisar el concepto de transferencias de [[Dalton (1920)]] para comparar matemática y teóricamente ambos conceptos que [[Atkinson (1970)]] luego retoma.
