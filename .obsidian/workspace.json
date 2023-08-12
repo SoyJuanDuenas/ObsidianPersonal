@@ -8,27 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a7af0af58e8e6aa",
+            "id": "94aed397146b66dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/ proposiciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d971052a4c8a0678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/La ciudad primera clase.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/ proposiciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/ proposiciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maths/ proposiciones.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,45 +138,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a7af0af58e8e6aa",
+  "active": "94aed397146b66dc",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Maths/ proposiciones.md",
+    "Maths/relación binaria.md",
+    "Maths/producto cartesiano.md",
+    "Maths/conjuntos.md",
+    "Maths/pares ordenados.md",
+    "Maths/conectores lógicos.md",
+    "Maths/lenguaje lógico.md",
+    "Math/pares ordenados.md",
+    "Maths/vectors.md",
+    "Maths/sucesión.md",
+    "Maths/tautología.md",
+    "Maths/proposición.md",
     "Maths/Pasted image 20230809192319.png",
+    "Maths/contradicción.md",
     "Maths/Pasted image 20230809191004.png",
     "Maths/Pasted image 20230809163019.png",
     "Maths/Pasted image 20230809161645.png",
-    "Economics/La ciudad primera clase.md",
     "Maths/Pasted image 20230809154202.png",
+    "Maths/matrix.md",
+    "Maths/equivalencia semántica.md",
+    "Maths/ecuaciones en diferencia.md",
+    "Maths/contingencia.md",
+    "Maths",
+    "Mathts/conjuntos.md",
+    "Math",
+    "Mathts",
+    "Untitled.canvas",
+    "Maths/proposiciones.md",
+    "Cuantitative methods/contiguity.md",
+    "Daily notes/2023-08-08.md",
+    "README.md",
+    "Economics/La ciudad primera clase.md",
     "Maths/Pasted image 20230809153821.png",
     "Maths/Pasted image 20230809153842.png",
     "Economics/función de bienestar social.md",
     "maths/ proposiciones.md",
-    "2023-08-08.md",
     "Asia/Singapur.md",
     "history of economic thought/Dalton (1920).md",
-    "history of economic thought/Rothschild and Stiglitz (1969).md",
-    "history of economic thought/Atkinson (1970).md",
-    "history of economic thought/teoría de la toma de decisiones bajo incertidumbre 1.md",
-    "history of economic thought/teoría de la toma de decisiones bajo incertidumbre.md",
-    "CS/packages.md",
-    "CS/function.md",
-    "CS/machine learning.md",
-    "CS/python.md",
-    "history of economic thought/Social Choice.md",
-    "Cuantitative methods/contiguity.md",
-    "Cuantitative methods/spatial econometrics.md",
-    "Cuantitative methods/Lattice Data.md",
-    "Cuantitative methods/spatial statistics.md",
     "Economics",
-    "CS/R.md",
-    "function 1.md",
-    "CS/function 1.md",
-    "Asia/capitalismo de Estado.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Maths",
     "CS",
     "Cuantitative methods/Retardo Espacial Torre.png",
     "Cuantitative methods/Retardo Espacial Reina.png",
@@ -205,8 +188,6 @@
     "Cuantitative methods/Vista General RStudio.png",
     "Daily notes",
     "history of economic thought",
-    "Cuantitative methods",
-    "estructuras.qmd",
-    "LICENSE"
+    "Cuantitative methods"
   ]
 }

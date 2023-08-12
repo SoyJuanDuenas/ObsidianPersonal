@@ -1,0 +1,1 @@
+Sea $\alpha$ una [[proposición]], $\alpha$ es una contradicción si y solo si al analizar sus valores de verdad, en todos los casos es falso.
