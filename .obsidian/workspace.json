@@ -11,8 +11,12 @@
             "id": "94aed397146b66dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maths/ecuaciones en diferencia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/ecuaciones en diferencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/ecuaciones en diferencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/ecuaciones en diferencia.md"
+              }
             }
           }
         ]
@@ -140,17 +148,19 @@
   },
   "active": "94aed397146b66dc",
   "lastOpenFiles": [
+    "Maths/ecuaciones en diferencia.md",
+    "Maths/proposición.md",
+    "Maths/sucesiones.md",
     "Maths/relación binaria.md",
     "Maths/producto cartesiano.md",
+    "Maths/cuantificadores.md",
     "Maths/conjuntos.md",
     "Maths/pares ordenados.md",
     "Maths/conectores lógicos.md",
     "Maths/lenguaje lógico.md",
     "Math/pares ordenados.md",
     "Maths/vectors.md",
-    "Maths/sucesión.md",
     "Maths/tautología.md",
-    "Maths/proposición.md",
     "Maths/Pasted image 20230809192319.png",
     "Maths/contradicción.md",
     "Maths/Pasted image 20230809191004.png",
@@ -159,7 +169,6 @@
     "Maths/Pasted image 20230809154202.png",
     "Maths/matrix.md",
     "Maths/equivalencia semántica.md",
-    "Maths/ecuaciones en diferencia.md",
     "Maths/contingencia.md",
     "Maths",
     "Mathts/conjuntos.md",
@@ -176,7 +185,6 @@
     "Economics/función de bienestar social.md",
     "maths/ proposiciones.md",
     "Asia/Singapur.md",
-    "history of economic thought/Dalton (1920).md",
     "Economics",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
