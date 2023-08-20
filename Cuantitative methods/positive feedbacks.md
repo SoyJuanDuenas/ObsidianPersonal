@@ -1,0 +1,7 @@
+En el contexto de [[sistemas dinámicos caóticos]], los "positive feedbacks" (retroalimentación positiva) se refieren a la interacción entre los componentes de un sistema que amplifica o refuerza ciertos efectos, lo que puede conducir a comportamientos caóticos o inestables. En otras palabras, los "positive feedbacks" son mecanismos que generan una respuesta que aumenta aún más la respuesta original, creando un ciclo de retroalimentación en el que los efectos se magnifican continuamente.
+
+En [[sistemas dinámicos caóticos]], los positive feedbacks pueden jugar un papel importante en la generación de comportamientos impredecibles y caóticos. Estos feedbacks positivos pueden llevar a oscilaciones, [[bifurcaciones]] y otros patrones dinámicos que son altamente sensibles a las condiciones iniciales y que pueden parecer altamente erráticos y aleatorios.
+
+Un ejemplo común de positive feedback en sistemas dinámicos son las [[bifurcaciones]]. A medida que un parámetro en una ecuación dinámica se modifica, puede ocurrir una bifurcación en la que una solución estable se divide en dos soluciones diferentes. Si estas dos soluciones continúan interactuando a través de positive feedbacks, podrían llevar al sistema a través de bifurcaciones sucesivas y finalmente a un comportamiento caótico.
+
+En resumen, los positive feedbacks son mecanismos de retroalimentación en sistemas dinámicos que amplifican los efectos iniciales y pueden ser responsables de la generación de comportamientos caóticos y altamente sensibles a las condiciones iniciales.

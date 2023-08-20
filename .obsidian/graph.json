@@ -6,17 +6,53 @@
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Asia",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:CS",
+      "color": {
+        "a": 1,
+        "rgb": 13605926
+      }
+    },
+    {
+      "query": "path:\"Cuantitative methods\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"history of economic thought\"",
+      "color": {
+        "a": 1,
+        "rgb": 14746084
+      }
+    },
+    {
+      "query": "path:Maths",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.463541666666667,
-  "repelStrength": 12.1875,
-  "linkStrength": 0.447916666666667,
-  "linkDistance": 143,
-  "scale": 0.20118443998012342,
+  "centerStrength": 0,
+  "repelStrength": 15.3645833333333,
+  "linkStrength": 0.276041666666667,
+  "linkDistance": 253,
+  "scale": 0.07178424052415557,
   "close": true
 }

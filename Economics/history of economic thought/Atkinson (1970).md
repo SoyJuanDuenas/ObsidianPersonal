@@ -26,7 +26,7 @@ Las medidas convencionales están dirigidas especialmente hacia el segundo de es
 
 Posterior a esta introducción Atkinson entra a tocar algunos aspectos formales sobre la forma de la función de utilidad social, para esto se apoya de la [[teoría de la toma de decisiones bajo incertidumbre]] pero acá Atkinson también revela algo importante *“desde que el campo de la toma de decisiones bajo incertidumbre ha atraído más atención recientemente que la medición de la desigualdad, intentaré explotar el paralelo usando los resultados que han sido alcanzados”* acá cita unos autores: Rothschild and Stiglitz (1969), Hadar and Russell (1969), y Hanoch and Levy (1969)
 
-Atkinson desarrolla un paralelo entre la [[history of economic thought/teoría de la toma de decisiones bajo incertidumbre]] y la medición de la desigualdad mostrando que el principio de las transferencias mencionado por [[Dalton (1920)]] es el mismo concepto de una media que mantiene un spread introducido por [[Rothschild and Stiglitz (1969)]]
+Atkinson desarrolla un paralelo entre la [[teoría de la toma de decisiones bajo incertidumbre]] y la medición de la desigualdad mostrando que el principio de las transferencias mencionado por [[Dalton (1920)]] es el mismo concepto de una media que mantiene un spread introducido por [[Rothschild and Stiglitz (1969)]]
 
 Respecto a el primer objetivo de comparar distribuciones Atkinson concluye que podemos deducir que si las curvas de Lorenz de dos distribuciones no se intersectan entonces podemos juzgar sin necesidad de estar de acuerdo con la forma de la [[función de bienestar social]], pero si se interceptan podemos encontrar dos funciones que las organicen de forma diferente.
 

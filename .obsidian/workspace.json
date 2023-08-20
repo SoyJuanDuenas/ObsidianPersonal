@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94aed397146b66dc",
+            "id": "99d5197c06ab5db5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/ecuaciones en diferencia.md",
+                "file": "Cuantitative methods/modelos basados en ecuaciones en diferencias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8b8190cd2635182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/bifurcaciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/ecuaciones en diferencia.md",
+                "file": "Cuantitative methods/modelos basados en ecuaciones en diferencias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/ecuaciones en diferencia.md",
+                "file": "Cuantitative methods/modelos basados en ecuaciones en diferencias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/ecuaciones en diferencia.md"
+                "file": "Cuantitative methods/modelos basados en ecuaciones en diferencias.md"
               }
             }
           }
@@ -146,56 +158,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94aed397146b66dc",
+  "active": "99d5197c06ab5db5",
   "lastOpenFiles": [
+    "Maths/bifurcaciones.md",
+    "Maths/implicación semántica.md",
+    "Cuantitative methods/modelos basados en ecuaciones en diferencias.md",
+    "Maths/valor de Feigenbaum.md",
+    "Economics/incertidumbre fundamental.md",
+    "feedbacks positivos.md",
+    "Cuantitative methods/positive feedbacks.md",
+    "Maths/alta sensibilidad a las condiciones iniciales.md",
+    "Maths/sistemas dinámicos caóticos.md",
+    "Math",
     "Maths/ecuaciones en diferencia.md",
-    "Maths/proposición.md",
-    "Maths/sucesiones.md",
-    "Maths/relación binaria.md",
-    "Maths/producto cartesiano.md",
+    "CS/python.md",
+    "Maths/reducción al absurdo.md",
+    "Maths/equivalencia semántica.md",
     "Maths/cuantificadores.md",
-    "Maths/conjuntos.md",
-    "Maths/pares ordenados.md",
-    "Maths/conectores lógicos.md",
-    "Maths/lenguaje lógico.md",
-    "Math/pares ordenados.md",
-    "Maths/vectors.md",
-    "Maths/tautología.md",
-    "Maths/Pasted image 20230809192319.png",
     "Maths/contradicción.md",
+    "Maths/contingencia.md",
+    "Maths/conjuntos.md",
+    "Maths/conectores lógicos.md",
+    "CS/machine learning.md",
+    "Cuantitative methods/Vista General RStudio.png",
+    "Cuantitative methods/time series models.md",
+    "Cuantitative methods/spatial statistics.md",
+    "Cuantitative methods/spatial econometrics.md",
+    "Cuantitative methods/Pasted image 20230814200147.png",
+    "Cuantitative methods/Lattice Data.md",
+    "Cuantitative methods/contiguity.md",
+    "CS/R.md",
+    "CS/programming language.md",
+    "Cuantitative methods/Pasted image 20230815163958.png",
+    "Cuantitative methods/Pasted image 20230814202352.png",
+    "Maths/Pasted image 20230809192319.png",
     "Maths/Pasted image 20230809191004.png",
     "Maths/Pasted image 20230809163019.png",
     "Maths/Pasted image 20230809161645.png",
     "Maths/Pasted image 20230809154202.png",
-    "Maths/matrix.md",
-    "Maths/equivalencia semántica.md",
-    "Maths/contingencia.md",
     "Maths",
-    "Mathts/conjuntos.md",
-    "Math",
     "Mathts",
     "Untitled.canvas",
-    "Maths/proposiciones.md",
-    "Cuantitative methods/contiguity.md",
-    "Daily notes/2023-08-08.md",
-    "README.md",
-    "Economics/La ciudad primera clase.md",
     "Maths/Pasted image 20230809153821.png",
-    "Maths/Pasted image 20230809153842.png",
-    "Economics/función de bienestar social.md",
-    "maths/ proposiciones.md",
-    "Asia/Singapur.md",
     "Economics",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "CS",
-    "Cuantitative methods/Retardo Espacial Torre.png",
-    "Cuantitative methods/Retardo Espacial Reina.png",
     "Cuantitative methods/w.qmd",
     "Asia",
-    "Cuantitative methods/Vista General RStudio.png",
     "Daily notes",
-    "history of economic thought",
+    "Economics/history of economic thought",
     "Cuantitative methods"
   ]
 }
