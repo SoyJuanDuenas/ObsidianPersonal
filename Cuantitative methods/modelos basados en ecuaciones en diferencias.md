@@ -62,16 +62,17 @@ la primera grafica tenemos que $X_0 = 0.3$ y $Y_0 = 0.301$ mientras que la segun
 
 La [[alta sensibilidad a las condiciones iniciales]] se puede evidenciar en el mediano y largo plazo. Dado que las variables económicas la mayoría presentan esta condición, no puede predecirse variables económicas en el mediano y largo plazo.
 
-Lo que hace que se empiecen a diferenciar a partir de determinado momento las series es porque en estas dinámicas no lineales se presenten [[positive feedbacks]] que son pequeñas acumulaciones de efectos que llegan a un punto limite y generan la diferencia. Es por esto que todas las variables economicas tienen [[incertidumbre fundamental]]
+Lo que hace que se empiecen a diferenciar a partir de determinado momento las series es porque en estas dinámicas no lineales se presenten [[positive feedbacks]] que son pequeñas acumulaciones de efectos que llegan a un punto limite y generan la diferencia. Es por esto que todas las variables economicas tienen [[incertidumbre fundamental]], sin embargo hay algunas [[time series models]] que presentan [[ergodicidad]] las cuales nos permiten predecir ciertos promedios e intervalos en el mediano y largo plazo.
 
-En las regularidades se pueden encontrar estructuras fractales, un ejemplo en economía es como en ciertas variables por ejemplo en ingresos la distribución es la misma en LA como en Bogotá. también puede presentarse en [[time series models]].
+Se buscan regularidades en vez de equilibrios dado que en las regularidades se pueden encontrar estructuras fractales, un ejemplo en economía es como en ciertas variables por ejemplo en ingresos la distribución es la misma en LA como en Bogotá como lo trabajo Luis Betancur en su trabajo *Introduction to Urban Science, Evidence and Theory of Cities as Complex Systems*. también estos fénomenos se pueden presentar en [[time series models]].
 
 
 ![[Pasted image 20230815163958.png]]
 
-se buscan regularidades en vez de equilibrios 
+Como nos podemos dar cuenta en ciertas regiones se muestran repentinos y dramáticos cambios, a estos les denominaremos [[bifurcaciones]].
 
-Ciencia Urbana (Fractales en ciudades) (Luis Betancur) Introduction to Urban Science
+diremos que es condición suficiente la existencia de un 3-ciclo en un sistema para que ese sistema se presenten [[sistemas dinámicos caóticos]]
+
 
 
 
