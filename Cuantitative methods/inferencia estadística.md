@@ -1,0 +1,11 @@
+La inferencia estadística es una rama importante de la estadística que se ocupa de hacer conclusiones o inferencias acerca de una población basándose en la información contenida en una muestra de esa población. En otras palabras, la inferencia estadística se refiere al proceso de sacar conclusiones sobre una población más amplia utilizando datos recopilados de una muestra representativa de esa población.
+
+Aquí hay dos componentes clave en la inferencia estadística:
+
+1. **Estimación:** En este aspecto, la inferencia estadística busca estimar los parámetros desconocidos de una población. Los parámetros son características numéricas que describen la población completa, como la media, la varianza o la proporción. A través de técnicas de muestreo y análisis de datos, se calculan estimaciones de estos parámetros utilizando la información de la muestra. Por ejemplo, se puede estimar la media de ingresos de una población a partir de una muestra de individuos.
+
+2. **Prueba de hipótesis:** Además de la estimación, la inferencia estadística también se utiliza para realizar pruebas de hipótesis. Esto implica evaluar afirmaciones o suposiciones sobre los parámetros de una población y determinar si los datos muestrales proporcionan suficiente evidencia para respaldar o refutar esas afirmaciones. Por ejemplo, se podría realizar una prueba de hipótesis para determinar si la media de ingresos en una población ha cambiado significativamente con el tiempo.
+
+La inferencia estadística se basa en conceptos y técnicas como la teoría de la probabilidad, la distribución de probabilidad, el muestreo aleatorio y la teoría de la estimación. Algunos de los métodos y herramientas comunes utilizados en la inferencia estadística incluyen intervalos de confianza, pruebas de hipótesis paramétricas y no paramétricas, regresión y análisis de varianza, entre otros.
+
+La inferencia estadística desempeña un papel fundamental en la toma de decisiones basadas en datos y en la investigación científica. Permite a los estadísticos, científicos y profesionales de diversas disciplinas realizar afirmaciones respaldadas por datos y tomar decisiones informadas, incluso cuando no es posible obtener información completa sobre una población entera.

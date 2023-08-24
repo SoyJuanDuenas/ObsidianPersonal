@@ -11,8 +11,12 @@
             "id": "99d5197c06ab5db5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cuantitative methods/time series models.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cuantitative methods/time series models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cuantitative methods/time series models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cuantitative methods/time series models.md"
+              }
             }
           }
         ]
@@ -151,6 +159,17 @@
   },
   "active": "99d5197c06ab5db5",
   "lastOpenFiles": [
+    "Cuantitative methods/inferencia estadística.md",
+    "Cuantitative methods/momentos poblacionales.md",
+    "cuantitative methods/momentos muestrales.md",
+    "cuantitative methods/función de distribución.md",
+    "Cuantitative methods/función de probabilidad.md",
+    "Cuantitative methods/función de distribución.md",
+    "Cuantitative methods/momentos muestrales.md",
+    "Cuantitative methods/variable aleatoria.md",
+    "cuantitative methods/espacio muestral.md",
+    "README.md",
+    "Cuantitative methods/espacio muestral.md",
     "Maths/sistemas dinámicos caóticos.md",
     "Cuantitative methods/ergodicidad.md",
     "Maths/bifurcaciones.md",
@@ -167,19 +186,8 @@
     "CS/python.md",
     "Maths/reducción al absurdo.md",
     "Maths/equivalencia semántica.md",
-    "Maths/cuantificadores.md",
-    "Maths/contradicción.md",
-    "Maths/contingencia.md",
-    "Maths/conjuntos.md",
-    "Maths/conectores lógicos.md",
-    "CS/machine learning.md",
     "Cuantitative methods/Vista General RStudio.png",
-    "Cuantitative methods/time series models.md",
-    "Cuantitative methods/spatial statistics.md",
-    "Cuantitative methods/spatial econometrics.md",
     "Cuantitative methods/Pasted image 20230814200147.png",
-    "Cuantitative methods/Lattice Data.md",
-    "Cuantitative methods/contiguity.md",
     "Cuantitative methods/Pasted image 20230815163958.png",
     "Cuantitative methods/Pasted image 20230814202352.png",
     "Maths/Pasted image 20230809192319.png",
