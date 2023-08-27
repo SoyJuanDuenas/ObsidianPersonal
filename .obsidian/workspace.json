@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99d5197c06ab5db5",
+            "id": "09c8bff3f2fddcd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cuantitative methods/time series models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8b8190cd2635182",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/bifurcaciones.md",
+                "file": "Cuantitative methods/proceso de ruido blanco.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cuantitative methods/time series models.md",
+                "file": "Cuantitative methods/proceso de ruido blanco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cuantitative methods/time series models.md",
+                "file": "Cuantitative methods/proceso de ruido blanco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cuantitative methods/time series models.md"
+                "file": "Cuantitative methods/proceso de ruido blanco.md"
               }
             }
           }
@@ -157,35 +145,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99d5197c06ab5db5",
+  "active": "09c8bff3f2fddcd1",
   "lastOpenFiles": [
-    "Cuantitative methods/inferencia estadística.md",
-    "Cuantitative methods/momentos poblacionales.md",
-    "cuantitative methods/momentos muestrales.md",
-    "cuantitative methods/función de distribución.md",
-    "Cuantitative methods/función de probabilidad.md",
-    "Cuantitative methods/función de distribución.md",
+    "Cuantitative methods/Procesos ARMA.md",
+    "Cuantitative methods/Procesos ARMA estacionarios.md",
     "Cuantitative methods/momentos muestrales.md",
+    "Cuantitative methods/proceso de ruido blanco.md",
+    "Cuantitative methods/proceso estocástico.md",
+    "Cuantitative methods/procesos estacionarios.md",
+    "Cuantitative methods/time series models.md",
+    "Cuantitative methods/función de distribución.md",
+    "cuantitative methods/función de distribución.md",
+    "Untitled.canvas",
     "Cuantitative methods/variable aleatoria.md",
+    "Cuantitative methods/estimación puntual.md",
+    "Cuantitative methods/función de probabilidad.md",
+    "Cuantitative methods/inferencia estadística.md",
+    "Cuantitative methods/modelos basados en ecuaciones en diferencias.md",
+    "cuantitative methods/momentos muestrales.md",
+    "Maths/bifurcaciones.md",
+    "Cuantitative methods/momentos poblacionales.md",
     "cuantitative methods/espacio muestral.md",
     "README.md",
     "Cuantitative methods/espacio muestral.md",
     "Maths/sistemas dinámicos caóticos.md",
     "Cuantitative methods/ergodicidad.md",
-    "Maths/bifurcaciones.md",
-    "Cuantitative methods/modelos basados en ecuaciones en diferencias.md",
-    "Cuantitative methods/procesos estacionarios.md",
     "Maths/implicación semántica.md",
     "Maths/valor de Feigenbaum.md",
     "Economics/incertidumbre fundamental.md",
     "feedbacks positivos.md",
-    "Cuantitative methods/positive feedbacks.md",
-    "Maths/alta sensibilidad a las condiciones iniciales.md",
     "Math",
-    "Maths/ecuaciones en diferencia.md",
-    "CS/python.md",
-    "Maths/reducción al absurdo.md",
-    "Maths/equivalencia semántica.md",
     "Cuantitative methods/Vista General RStudio.png",
     "Cuantitative methods/Pasted image 20230814200147.png",
     "Cuantitative methods/Pasted image 20230815163958.png",
@@ -197,7 +186,6 @@
     "Maths/Pasted image 20230809154202.png",
     "Maths",
     "Mathts",
-    "Untitled.canvas",
     "Maths/Pasted image 20230809153821.png",
     "Economics",
     "Untitled 2.canvas",

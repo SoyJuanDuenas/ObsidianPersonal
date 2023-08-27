@@ -1,4 +1,4 @@
-Los momentos muestrales son estadísticas descriptivas que se utilizan para caracterizar una muestra de datos. Estos momentos proporcionan información sobre la [[Cuantitative methods/función de distribución|función de distribución]] de los datos y son útiles para resumir ciertas características importantes de una muestra. Los momentos muestrales se calculan a partir de los datos observados y se utilizan en estadística para estimar propiedades de una población más amplia a partir de la muestra disponible.
+Los momentos muestrales son estadísticas descriptivas que se utilizan para caracterizar una muestra de datos. Estos momentos proporcionan información sobre la [[función de distribución|función de distribución]] de los datos y son útiles para resumir ciertas características importantes de una muestra. Los momentos muestrales se calculan a partir de los datos observados y se utilizan en estadística para estimar propiedades de una población más amplia a partir de la muestra disponible.
 
 Los momentos muestrales más comunes son:
 
@@ -17,4 +17,4 @@ Los momentos muestrales más comunes son:
    Fórmula de la desviación estándar muestral:
    $$ s = \sqrt{s^2}$$
 
-Estos son los momentos muestrales más comunes, pero también existen momentos de orden superior que se utilizan en análisis más avanzados. Los momentos muestrales son útiles para resumir la información contenida en una muestra de datos y para hacer inferencias sobre la población de la que se extrajo la muestra. Los [[momentos poblacionales]] son conceptos similares, pero se calculan sobre una población completa en lugar de una muestra.
+Los momentos muestrales son útiles para resumir la información contenida en una muestra de datos y para hacer inferencias sobre la población de la que se extrajo la muestra. Los [[momentos poblacionales]] son conceptos similares, pero se calculan sobre una población completa en lugar de una muestra.
