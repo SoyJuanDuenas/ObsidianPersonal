@@ -19,7 +19,7 @@ $$
 $$
 ## Forma implícita
 
-Expresamos por medio de una ecuación que me describa la secuencia de la sucesión
+Expresamos por medio de [[ecuaciones en diferencia]] que nos describan la secuencia de la sucesión
 
 $$
 x_{t+1} = x_t + 3; x_0 = 1

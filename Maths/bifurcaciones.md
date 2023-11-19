@@ -1,4 +1,4 @@
-Una bifurcación, en el contexto de sistemas dinámicos, es un punto en el que el comportamiento de un sistema cambia de manera cualitativa a medida que se modifica un parámetro. En otras palabras, es un punto crítico en el que el sistema pasa de un estado a otro sin necesidad de que ocurra un cambio continuo en el parámetro. Las bifurcaciones son un concepto fundamental en la teoría de sistemas dinámicos y se encuentran en una amplia gama de disciplinas, incluyendo la física, la biología, la matemática y la economía.
+Una bifurcación, en el contexto de [[sistemas dinámicos caóticos]], es un punto en el que el comportamiento de un sistema cambia de manera cualitativa a medida que se modifica un parámetro. En otras palabras, es un punto crítico en el que el sistema pasa de un estado a otro sin necesidad de que ocurra un cambio continuo en el parámetro. Las bifurcaciones son un concepto fundamental en la teoría de sistemas dinámicos y se encuentran en una amplia gama de disciplinas, incluyendo la física, la biología, la matemática y la economía.
 
 Hay varios tipos de bifurcaciones, pero las dos principales son:
 

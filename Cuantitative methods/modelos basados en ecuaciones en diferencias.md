@@ -1,7 +1,7 @@
 Un modelo basado en [[ecuaciones en diferencia]] es una herramienta matemática utilizada para describir el comportamiento de sistemas dinámicos discretos en el tiempo. Estas ecuaciones son una extensión de las ecuaciones diferenciales, que describen cómo las variables cambian en términos de sus derivadas con respecto al tiempo en sistemas continuos.
 
 Los modelos basados en ecuaciones en diferencias pueden volverse más complejos al incorporar múltiples variables, restricciones y relaciones entre variables. Estos modelos son útiles para simular y predecir el comportamiento de sistemas discretos en el tiempo y para analizar cómo diferentes factores afectan el desarrollo de esos sistemas a lo largo del tiempo.
-# Ecuación de modelo poblacional (sin restricciones)
+# Ecuación lineal
 
 Un ejemplo sencillo de un modelo basado en [[ecuaciones en diferencia]] es el modelo de crecimiento poblacional discreto. Supongamos que tienes una población de organismos que se reproduce cada año. La ecuación en diferencias podría verse así:
 
@@ -27,7 +27,7 @@ llevando a la conclusión de que
 - Si r > 1, la población explota con crecimiento exponencial
 
 Esto ultimo recordando las propiedades de las [[sucesiones]], especialmente la sucesión de la forma: $$\{r^n\}_{n=1}^{\infty}$$
-# Ecuación de modelo poblacional logística
+# Ecuación de modelo poblacional logística (No lineal)
 
 Supongamos la siguiente ecuación no lineal en la cual demostramos las complicaciones que puede presentar una no-linealidad.
 

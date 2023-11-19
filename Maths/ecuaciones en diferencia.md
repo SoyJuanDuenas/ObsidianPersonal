@@ -20,3 +20,6 @@ Sea $X_{t+1} = f_{(x_t)}$ una *EED*, decimos que $x^*$ es un punto de equilibrio
 El método tentativo o iterativo es una técnica utilizada para encontrar soluciones aproximadas de ecuaciones en diferencia, especialmente cuando no es posible obtener soluciones analíticas exactas de manera directa. Este método implica realizar sucesivas iteraciones, aplicando una regla o fórmula iterativa en cada paso para aproximar los valores de los términos de la secuencia.
 
 En el contexto de una ecuación en diferencia, el método iterativo implica comenzar con un valor inicial y aplicar repetidamente la regla de la ecuación para calcular el siguiente término en función del valor anterior. Luego, este nuevo valor se convierte en el valor anterior para la siguiente iteración, y así sucesivamente. A medida que se realizan más iteraciones, se espera que los valores se acerquen a la solución deseada o converjan hacia un punto de equilibrio si existe.
+
+## Método general
+
