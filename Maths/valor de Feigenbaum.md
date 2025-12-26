@@ -1,7 +1,0 @@
-El valor de Feigenbaum, también conocido como constante de Feigenbaum o número de Feigenbaum, es un número real que aparece en la teoría del caos y en la dinámica de sistemas no lineales. Fue descubierto por el matemático Mitchell Feigenbaum en la década de 1970 mientras investigaba [[bifurcaciones]] de periodos en sistemas dinámicos caóticos.
-
-El valor de Feigenbaum se denota generalmente como δ y se refiere a la relación entre los tamaños de las [[bifurcaciones]] en un sistema dinámico. La secuencia de valores δ muestra una propiedad notable: es un número universal, lo que significa que sistemas dinámicos muy diferentes exhiben aproximadamente el mismo valor de δ cuando se acercan a un comportamiento caótico a través de bifurcaciones periódicas.
-
-En términos más simples, el valor de Feigenbaum está relacionado con cómo las soluciones de ecuaciones diferenciales no lineales cambian a medida que un parámetro en la ecuación se modifica. El valor de δ está relacionado con la tasa de convergencia hacia el caos a medida que el sistema pasa por bifurcaciones.
-
-El valor específico de δ es aproximadamente 4.6692016091029909... y es un número irracional. Esta constante es un ejemplo importante de cómo los patrones aparentemente aleatorios pueden emerger en sistemas matemáticos que exhiben comportamientos caóticos.

@@ -1,4 +1,0 @@
-
-....
-
-[[spatial econometrics]]

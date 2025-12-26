@@ -1,5 +1,0 @@
-La ergodicidad es un supuesto de [[procesos estacionarios]] (es decir es condición necesaria que sea un proceso estacionario para que sea ergódico) que nos habla de que momentos muestrales calculados a partir de una [[time series models]] con un número finito de observaciones, converge en algún sentido a sus contrapartes poblacionales(valores esperados, varianzas... etc).
-
-- Las condiciones de ergodicidad son “propiedades de consistencia” para variables aleatorias dependientes, y no pueden ser evaluadas. Por ello, deben ser asumidas. 
-- No podemos usar la ley de los grandes números para probar ergodicidad, porque las distribuciones de distintos momentos t pueden ser idénticas, pero en general no son independientes. 
-- Un proceso no estacionario no puede ser ergódico: ¿a los momentos de cuál variable Yt convergerían los momentos muestrales si los poblacionales no fueran constantes?
