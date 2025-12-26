@@ -1,0 +1,6 @@
+
+Nonparametric methods [[estimate]] relationships or distributions **without assuming a fixed finite-dimensional parametric form**, allowing model complexity to adapt to the data, this mean that Non-parametric methods do not make explicit assumptions about the functional form of $f$.
+
+Such approaches can have a major advantage over [[parametric method]]: by avoiding the assumption of a particular functional form for $f$, they have the potential to accurately fit a wider range of possible shapes for $f$ But non-parametric approaches do suffer from a major disadvantage: since they do not reduce the problem of estimating $f$ to a small number of [[parameter]], a very large number of observations (far more than is typically needed for a parametric approach) is required in order to obtain an accurate [[estimate]] for $f$.
+
+**Nonparametric** does **not** mean “no assumptions”, it means **fewer structural assumptions** about functional form, often replaced by [[smoothness]] / locality assumptions. In nonparametric methods, [[overfitting]] is also a preoccupation. lower levels of [[smoothness]] make a perfect fit to the observed, this mean that it's important choose a correct amount of [[smoothness]].

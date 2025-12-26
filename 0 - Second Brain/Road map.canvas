@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"0d8ca7b69adddf91","type":"group","x":-476,"y":87,"width":636,"height":333,"label":"Econometría"},
+		{"id":"d24b38fa39905283","type":"text","text":"Machine Learning (Statistical Learning)","x":-820,"y":107,"width":250,"height":60},
+		{"id":"eef94381e595d281","type":"text","text":"Análisis de regresión (Econometría I)","x":-456,"y":107,"width":250,"height":60,"color":"2"},
+		{"id":"edf614f8153db004","type":"text","text":"Análisis de series de tiempo (Econometría II)","x":-456,"y":221,"width":250,"height":60,"color":"2"},
+		{"id":"5dea854affedc9d0","type":"text","text":"Teoria de Redes","x":-131,"y":-119,"width":250,"height":60},
+		{"id":"36420bd63538c37e","type":"text","text":"Probabilidad 1 (Luis Rincon) #probability ","x":200,"y":-120,"width":250,"height":60,"color":"3"},
+		{"id":"6f450c34a600e72e","type":"text","text":"Estadística Espacial #spatial ","x":-131,"y":-12,"width":250,"height":60,"color":"3"},
+		{"id":"3151ce983b00c484","type":"text","text":"Algebra Lineal (Axler)","x":-456,"y":-120,"width":250,"height":60},
+		{"id":"c37d01cdc709a67a","type":"text","text":"Probabilidad II (Luis Rincon)","x":540,"y":-120,"width":250,"height":60},
+		{"id":"245664a66e45b79b","type":"text","text":"Análisis de series de tiempo con estimación bayesiana (BVAR ,etc)","x":-456,"y":320,"width":250,"height":80},
+		{"id":"59dbce7d452cfa16","type":"text","text":"Econometría Espacial","x":-131,"y":221,"width":250,"height":60,"color":"2"},
+		{"id":"7f9a5e73a2f9a600","type":"text","text":"Estadistica Inferencial (Luis Rincon) #inferential_statistics ","x":200,"y":80,"width":250,"height":114,"color":"3"},
+		{"id":"09cf9ea10ea9cf03","type":"text","text":"Estadistica Bayesiana (Bibliografia asociada) #bayesian_inference ","x":200,"y":315,"width":250,"height":90,"color":"3"},
+		{"id":"15107746427857e8","type":"text","text":"Procesos Estocasticos (Luis Rincon)","x":540,"y":-12,"width":250,"height":60},
+		{"id":"c878ad7a25c31827","type":"text","text":"Evaluación de Impacto","x":540,"y":107,"width":250,"height":60},
+		{"id":"f71c34fe7f07d2e0","x":-130,"y":-243,"width":250,"height":60,"type":"text","text":"Teoria de grafos"},
+		{"id":"1bf8309367e2287c","x":-280,"y":-7,"width":102,"height":50,"type":"text","text":"GIS"}
+	],
+	"edges":[
+		{"id":"12923a5247526700","fromNode":"36420bd63538c37e","fromSide":"bottom","toNode":"7f9a5e73a2f9a600","toSide":"top"},
+		{"id":"b9e3577bee47bd97","fromNode":"7f9a5e73a2f9a600","fromSide":"bottom","toNode":"09cf9ea10ea9cf03","toSide":"top"},
+		{"id":"d5fa274c8a0c4fd3","fromNode":"7f9a5e73a2f9a600","fromSide":"left","toNode":"eef94381e595d281","toSide":"right"},
+		{"id":"f14e96dd91735307","fromNode":"eef94381e595d281","fromSide":"bottom","toNode":"edf614f8153db004","toSide":"top"},
+		{"id":"ba44c4cc3d611a6c","fromNode":"09cf9ea10ea9cf03","fromSide":"left","toNode":"245664a66e45b79b","toSide":"right"},
+		{"id":"afb035e57994840d","fromNode":"edf614f8153db004","fromSide":"bottom","toNode":"245664a66e45b79b","toSide":"top"},
+		{"id":"5d8db736bc493323","fromNode":"3151ce983b00c484","fromSide":"left","toNode":"d24b38fa39905283","toSide":"top"},
+		{"id":"3da20b6ff0f9d84d","fromNode":"eef94381e595d281","fromSide":"left","toNode":"d24b38fa39905283","toSide":"right"},
+		{"id":"0fb3b579e542cfcd","fromNode":"3151ce983b00c484","fromSide":"bottom","toNode":"eef94381e595d281","toSide":"top"},
+		{"id":"38c643e2a4508a12","fromNode":"d24b38fa39905283","fromSide":"right","toNode":"eef94381e595d281","toSide":"left"},
+		{"id":"1a7fe8f6ee906c45","fromNode":"36420bd63538c37e","fromSide":"right","toNode":"c37d01cdc709a67a","toSide":"left"},
+		{"id":"af1b40798736acd6","fromNode":"c37d01cdc709a67a","fromSide":"bottom","toNode":"15107746427857e8","toSide":"top"},
+		{"id":"022d852565ec2c0c","fromNode":"3151ce983b00c484","fromSide":"right","toNode":"5dea854affedc9d0","toSide":"left"},
+		{"id":"f137f594df97d07b","fromNode":"edf614f8153db004","fromSide":"right","toNode":"59dbce7d452cfa16","toSide":"left"},
+		{"id":"6ea9943bccb32245","fromNode":"5dea854affedc9d0","fromSide":"bottom","toNode":"6f450c34a600e72e","toSide":"top"},
+		{"id":"ab9e743b68faeef5","fromNode":"6f450c34a600e72e","fromSide":"bottom","toNode":"59dbce7d452cfa16","toSide":"top"},
+		{"id":"c19d1f67c9853f54","fromNode":"7f9a5e73a2f9a600","fromSide":"right","toNode":"c878ad7a25c31827","toSide":"left"},
+		{"id":"3fed4a7650606028","fromNode":"5dea854affedc9d0","fromSide":"top","toNode":"f71c34fe7f07d2e0","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"1e13893c8b15c117","fromNode":"6f450c34a600e72e","fromSide":"left","toNode":"1bf8309367e2287c","toSide":"right"}
+	]
+}

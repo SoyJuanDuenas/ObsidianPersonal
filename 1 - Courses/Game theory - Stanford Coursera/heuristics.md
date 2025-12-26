@@ -1,0 +1,5 @@
+#ComputerScience 
+In mathematical optimization and computer science, heuristic is a technique designed for problem solving more quickly when classic methods are too slow for finding an exact or approximate solution, or when classic methods fail to find any exact solution in a search space. This is achieved by trading optimality, completeness, accuracy, or precision for speed. In a way, it can be considered a shortcut.
+
+A heuristic function, also simply called a heuristic, is a function that ranks alternatives in search [[algorithm]] at each branching step based on available information to decide which branch to follow. For example, it may approximate the exact solution.
+
