@@ -13,3 +13,5 @@ This setting allow us to answer the following questions:
 - Which predictors are associated with the response?
 - What is the relationship between the response and each predictor?
 - Can the relationship between $Y$ and each predictor be adequately summarized using a linear equation, or is the relationship more complicated?
+
+Usually this type of questions are related to [[econometrics]] framework 

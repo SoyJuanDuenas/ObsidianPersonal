@@ -13,7 +13,7 @@ $$
 \hat f = \arg\min_{f\in\mathcal{F}} \frac{1}{n}\sum_{i=1}^n L\big(y_i, f(x_i)\big) + \lambda\,\Omega(f)
 $$
 
-In this type of statistical learning we can find two different types of problems: first [[regression problem]] that is where $Y$ is continuous (e.g., price, yield, demand), for validate the performance of the model in this type of problems we can use common losses metrics as [[Mean Squared Error (MSE)]], [[Root Mean Square Error (RMSE)]] and [[MAE]] 
+In this type of statistical learning we can find two different types of problems: first [[regression problem]] that is where $Y$ is continuous (e.g., price, yield, demand), for validate the performance of the model in this type of problems we can use common losses metrics as [[Mean Squared Error (MSE)]], [[Root Mean Square Error (RMSE)]] and [[MAE]]  
 
 For another way, we can find the [[classification problem]] that happens when target $Y$ is categorical (e.g., fraud vs non-fraud),  for validate the performance of the model in this type of problems we can use common losses metrics as [[log loss]], [[accuracy]], [[F1]], [[AUC]].
 

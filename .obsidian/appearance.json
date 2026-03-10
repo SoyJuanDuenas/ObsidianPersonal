@@ -1,0 +1,13 @@
+{
+  "accentColor": "#118dd0",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "justify",
+    "center",
+    "center tables"
+  ],
+  "cssTheme": "Minimal",
+  "showViewHeader": false,
+  "baseFontSize": 18,
+  "baseFontSizeAction": false
+}
