@@ -1,7 +1,5 @@
 #probability
 
-## Notation:
-
 Is important to make the difference between $X$ that is a function and $x$ that is a real number. 
 
 # Definition

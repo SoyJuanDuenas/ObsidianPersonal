@@ -5,9 +5,9 @@ Where $\hat{f}$ represents our [[estimate]] for $f$, and $\hat{Y}$ represent the
 
 ![[Pasted image 20251223101507.png]]
 
-The Accuracy of $\hat{Y}$ as a prediction of $Y$ depends on two quantities which will call the **reducible error** and the **irreducible error**.
+The Accuracy of $\hat{Y}$ as a prediction of $Y$ depends on two quantities which will call the **reducible error** and the [[irreducible error]].
 
-The reducible error is the difference between $\hat{f}$ and $f$, this error can be minimized using a potential better [[statistical learning]] technique to [[estimate]] $f$. Now, even if $f = \hat{f}$, by definition $f$ also do not have a perfect fit between $Y$ and $X$, this error ($\epsilon$) is the irreducible error.
+The reducible error is the difference between $\hat{f}$ and $f$, this error can be minimized using a potential better [[statistical learning]] technique to [[estimate]] $f$. Now, even if $f = \hat{f}$, by definition $f$ also do not have a perfect fit between $Y$ and $X$, this error ($\epsilon$) is the [[irreducible error]].
 
 $$Y = f(X) + \epsilon$$
 $$\hat{Y}=\hat{f}(X)$$
@@ -20,6 +20,6 @@ Then
 $$E(Y - \hat{Y})^2 = E(f(X) - \hat{f}(X))^2 + E(\epsilon)^2$$
 $$E(Y - \hat{Y})^2 = E(f(X) - \hat{f}(X))^2 + var(\epsilon)$$
 
-Being $E(f(X) - \hat{f}(X))^2$ the reducible error and $var(\epsilon)$ the irreducible error, in this framework we want to estimate the best $\hat{f}(X)$ to address
+Being $E(f(X) - \hat{f}(X))^2$ the reducible error and $var(\epsilon)$ the [[irreducible error]], in this framework we want to estimate the best $\hat{f}(X)$ to address
 
 $$E(Y - \hat{Y})^2 = var(\epsilon)$$

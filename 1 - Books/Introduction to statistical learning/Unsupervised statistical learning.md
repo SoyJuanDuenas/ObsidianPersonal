@@ -7,11 +7,13 @@ $$\{x_i\}_{i=1}^n,\quad x_i\in\mathbb{R}^p$$
 The objective of unsupervised learning is to learn a representation, partition, or distributional description of $X$:
 
 - [[clusters]] / communities
-- [[embeddings]] / components
+- [[principal components]]
 - density / anomalies
-- latent variables
+- [[latent variables]]
 
-We use usually use unsupervised learning to **find patterns** we didn’t predefine, **represent data** with fewer dimensions, **create features** for [[Supervised statistical learning]], **group entities** into meaningful clusters or **identify unusual points** relative to a learned structure.
+We use usually use unsupervised learning to **find patterns** we didn’t predefine, **represent data** with fewer dimensions, **create features** for [[Supervised statistical learning]], **group entities** into meaningful [[clusters]], **identify outliers** relative to a learned structure or make [[Exploratory Data Analysis (EDA)]].
+
+In [[Supervised statistical learning]] we have a [[ground truth]], a true valor with which we can fit our models and measure how close are we from this values, we don't have this in unsupervised statistical learning because we don't know the true anwser.
 
 ## Main problem families
 

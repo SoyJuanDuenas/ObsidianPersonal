@@ -24,6 +24,7 @@ where $y$ takes values from a **finite set of classes**, such as:
 
 Common metrics used in classification include:
 
+[[error rate]]
 [[Accuracy]]  
 [[Precision]]  
 [[Recall]]  

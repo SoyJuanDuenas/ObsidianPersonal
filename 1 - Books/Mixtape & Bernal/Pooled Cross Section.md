@@ -17,15 +17,14 @@ In the pooled cross section we should use dummy variables to differentiate the p
 
 # Example
 
-We can perform a [[impact evaluation]] using pooled Cross Sections. We will use a Wooldridge example: the effect of Garbage Incinerator Location on House Values in North Andover MA
+We can perform a [[causal inference]] analysis using pooled Cross Sections. We will use a Wooldridge example: the effect of Garbage Incinerator Location on House Values in North Andover MA
 
 To perform this example let be 2 year pooled cross section of data for 1978 and 1981, the incinerator were built in 1981 and online in 1985, it's important to know that the project of the incinerator wasn't know in 1978
 
-Then we will create a [[dummy variable]] *nearinc* where it takes the number 1 when the house is near the incinerator and 0 when isn't
+Then we will create a [[dummy variable]] where it takes the number 1 when the house is near the incinerator and 0 when isn't
 $$rprice = \gamma_0 + \gamma_1nearinc + u$$
 Then if the incinerator had a negative effect in the rental price of the house near the incinerator, then is expected $\gamma_1$ negative and statistically significant. Now is important to know if the incinerator are actually the cause of the change in the rental prices so in this cases the important focus are the changes in the $\gamma_1$ coefficient between 1978 and 1981 this type of estimator are called the [[Difference-in-difference]] estimator.
 
-So, let
 
 
 

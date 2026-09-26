@@ -13,7 +13,7 @@ where $t = 1, 2$
 
 ## Estimation by pooled
 
-A first approach is estimate $\beta_1$ just joining the time periods and estimate by[[Ordinary least squares (OLS)]] this is called Pooled OLS.
+A first approach is estimate $\beta_1$ just joining the time periods and estimate by [[Ordinary least squares (OLS)]] this is called Pooled OLS.
 
 $$y_{it} + \beta_0 + \delta_0d2 + \beta_1x_{it} + v_{it}$$
 Where $v_{it} = a_i + u_{it}$

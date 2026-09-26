@@ -1,47 +1,35 @@
 
-The **Bayes classifier** solve [[classification problem]]s and is the *optimal* classification rule (under 0–1 loss) that assigns an input $x$ to the class with the **highest posterior probability**,  is the best possible classifier for a given data-generating process.
+The **Bayes classifier** assigns each observation to the most likely class, given its predictor values. this is the optimal classifier for minimizing the test error rate on average and is defined as: 
 
-The Bayes classifier’s prediction is determined by the [[Bayes decision boundary]]
 $$P(Y=j\mid X=x_0)$$
 
-Note, that this is classifier is in essence a [[conditional probability]] 
-Given classes $k \in \{1,\dots,K\}$, predict:
-$$
-\hat{y}(x)=\arg\max_{k} \; P(Y=k \mid X=x)
-$$
+So, Given classes $j \in \{1,\dots,J\}$, the predict function are defined as:
 
-This rule minimizes the **Bayes risk** (expected misclassification error) among all possible classifiers.
-## Binary classification form
-If $Y \in \{0,1\}$, the Bayes rule becomes:
 $$
-\hat{y}(x)=
-\begin{cases}
-1, & P(Y=1\mid X=x) > 0.5\\
-0, & \text{otherwise}
-\end{cases}
+\hat{y}(x)=\arg\max_{j} \; P(Y=j \mid X=x)
 $$
 
-## How to compute the posterior
+The Bayes classifier produces the lowest possible test error rate called the Bayes error rate.
 
-By [[Bayes' Theorem]]:
+For a fixed value $X = x_0$​, the Bayes classifier chooses the most likely class. Therefore, its probability of being correct is:
 $$
-P(Y=k\mid X=x)=\frac{p(x\mid Y=k)\,P(Y=k)}{p(x)}
+\max_{j} \; P(Y=j \mid X=x)
 $$
-with
+Hence the probability of being wrong is:
+
 $$
-p(x)=\sum_{j=1}^K p(x\mid Y=j)\,P(Y=j)
+1 - \max_{j} \; P(Y=j \mid X=x)
 $$
+That is the Bayes error rate at $x_0$, to get the overall Bayes error rate, we average this error over all possible values of $X$:
 
-## Relation to “Bayesian classifiers” in practice
+$$
+E_x[1 - \max_{j} \; P(Y=j \mid X=x)]
+$$
+$$
+1 - E_x[\max_{j} \; P(Y=j \mid X=x)]
+$$
+The Bayes error rate is in this setting the equivalent of the [[irreducible error]]
 
-The Bayes classifier is an **ideal decision rule** that requires the true [[posterior distribution]] (unknown). Many approaches attempt to [[estimate]] the [[conditional distribution]] of $Y$ given $X$, and then classify a given observation to the class with highest estimated probability
+This is classifier is in essence a [[conditional probability]]. But for real data we do not know the [[conditional distribution]] of $Y$ given $X$ meaning that computing the Bayes classifier is impossible.
 
-- $p(x\mid y)$ and $P(y)$ (generative)
-- or directly $P(y\mid x)$ (discriminative)
-
-Examples:
-- [[Naive Bayes]]: assumes conditional independence in $p(x\mid y)$
-- [[LDA]]/[[QDA]]: assumes Gaussian class-conditional distributions
-- [[Logistic regression]]: models $P(Y=1\mid X)$ directly (discriminative)
-
-Another example could be [[K-Nearest Neighbors (KNN)]] that Given a positive integer $K$ and a test observation $x_0$, the [[K-Nearest Neighbors (KNN)]] classifier first identifies the $K$ points in the training data that are closest to $x_0$, represented by $\mathcal{N}_0$. It then estimates the [[conditional probability]] for class $j$ as the fraction of points in $\mathcal{N}_0$ whose response values equal $j$:
+Many approaches attempt to [[estimate]] the [[conditional distribution]] of $Y$ given $X$, and then classify a given observation to the class with highest estimated probability, a example is the [[K-Nearest Neighbors (KNN)]] method

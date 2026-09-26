@@ -1,5 +1,5 @@
 
-# Summary:
+# Handwriting summary:
 
 
 
@@ -42,9 +42,12 @@ Sometimes this question is not clear, for example if we have a set of n observat
 
 [[regression problem]] is when $Y$ is continuous (e.g., price, yield, demand), for validate the performance of the model in this type of problems we can use common losses metrics as [[Mean Squared Error (MSE)]], [[Root Mean Square Error (RMSE)]] and [[Mean Absolute Error (MAE)]].
 
-For another way, we can find the [[classification problem]] that happens when target $Y$ is categorical (e.g., fraud vs non-fraud),  for validate the performance of the model in this type of problems we can use common losses metrics as [[Accuracy]] , [[Precision]], [[Recall]], [[F1 Score]] or [[Confusion Matrix]]
+For another way, we can find the [[classification problem]] that happens when target $Y$ is categorical (e.g., fraud vs non-fraud),  for validate the performance of the model in this type of problems we can use common losses metrics as [[error rate]], [[Accuracy]], [[Precision]], [[Recall]], [[F1 Score]] or [[Confusion Matrix]]
 
 # How do we know that we have a good model ?
 
 On a particular data set, one specific model may work best, but some other method may work better on a similar but different data set. This mean that is an important task to decide for any given set of data which method produces the best result.
+
+
+
 

@@ -12,7 +12,7 @@ $$P(A \mid B) = \frac{P(A \cap B)}{P(B)}$$
 
 where:
 
-- $P(A \cap B)$ is the joint probability that both events $A$ and $B$ occur.
+- $P(A \cap B)$ is the [[joint probability]] that both events $A$ and $B$ occur.
 - $P(B)$ is the probability that [[event]] $B$ occurs, and it must be greater than 0,  $P(B)>0$
 
 # Explanation of the formula

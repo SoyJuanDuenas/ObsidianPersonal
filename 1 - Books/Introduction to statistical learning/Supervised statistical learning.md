@@ -21,7 +21,7 @@ Supervised learning is judged by **out-of-sample** performance: Train/validation
 
 Usually we select the model family based on the nature of the dependent variable $Y$ the problem with this is some models works even if the dependent variable are numerical or categorical, with this in mind the typical model families in supervised statistical learning are:
 
-- Linear models: [[linear regression]], [[Ridge]], [[Lasso]]
+- Linear models: [[Linear regression]], [[Ridge]], [[Lasso]]
 - Generalized linear models: [[logistic regression]] or [[Poisson regression]]
 - Trees and ensembles: [[decision trees]], [[random forest]], [[gradient boosting]]
 - Kernel methods: [[SVM]], [[kernel ridge]]

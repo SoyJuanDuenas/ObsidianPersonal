@@ -3,11 +3,11 @@
 
 This mean a two-step model-based approach:
 
-- First, we make an assumption about the functional form. or shape, of $f$, in a [[linear regression]] the assumption is that $f$ is lineal in $X$.
+- First, we make an assumption about the functional form. or shape, of $f$, in a [[Linear regression]] the assumption is that $f$ is lineal in $X$.
 $$f(X) = \beta_0 + \beta_1X_1 + \beta_2X_2 +\dots + \beta_pX_p$$
 	This mean that instead [[estimate]] an entirely arbitrary p-dimensional function $f(X)$, one only needs to estimate the $p + 1$ [[coefficients]] $\beta_0, \beta_1 , \dots, \beta_p$
 
-- After a model has been selected we perform a procedure that uses the training data to fit or train the model, In the case of the [[linear regression]] we wan to find values of these parameters such that:
+- After a model has been selected we perform a procedure that uses the training data to fit or train the model, In the case of the [[Linear regression]] we wan to find values of these parameters such that:
 $$Y \approx \beta_0 + \beta_1X_1 + \beta_2X_2 +\dots + \beta_pX_p$$
 	the most common approach to fitting a linear regression is [[Ordinary least squares (OLS)]], however, OLS is one of many possible ways to fit the linear model.
 
